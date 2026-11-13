@@ -1,0 +1,8 @@
+# build output
+dist/
+*.exe
+*.pdb
+
+# runtime data (contains your voice input text — never commit)
+*.log
+settings.json
